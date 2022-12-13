@@ -1,0 +1,6 @@
+*.swp
+*.jpg
+*.gif
+*.png 
+output.txt
+/tmp
